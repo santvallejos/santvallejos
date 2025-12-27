@@ -100,13 +100,10 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="https://santvallejos.dev" />
   </a>
 </div>
+</div>
 
-###
-
-###
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santvallejos&show_icons=true&locale=en&layout=compact" alt="santvallejos" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=santvallejos&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santvallejos&show_icons=true&locale=en" alt="santvallejos" /></p> -->
-
-</div>
