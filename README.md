@@ -1,8 +1,5 @@
-###
-
-<h2 align="left">Hi 👋! My name is Santiago Vallejos</h2>
-
-###
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20My%20name%20is%20Santiago%20Vallejos%20👋&fontSize=50" alt="Header animado" width="100%"/>
 
 <img align="right" height="300" src="https://ik.imagekit.io/o9yqquihf/imagen.png?updatedAt=1766875939628"  />
 
@@ -111,3 +108,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santvallejos&show_icons=true&locale=en&layout=compact" alt="santvallejos" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santvallejos&show_icons=true&locale=en" alt="santvallejos" /></p> -->
+
+</div>
