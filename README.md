@@ -104,6 +104,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santvallejos&show_icons=true&locale=en&layout=compact" alt="santvallejos" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=santvallejos&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santvallejos&show_icons=true&locale=en" alt="santvallejos" /></p> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santvallejos&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santvallejos&theme=tokyonight" alt="Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santvallejos&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santvallejos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
