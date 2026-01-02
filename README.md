@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20My%20name%20is%20Santiago%20Vallejos%20👋&fontSize=50" alt="Header animado" width="100%"/>
 
-<img align="right" height="300" src="https://ik.imagekit.io/o9yqquihf/imagen.png?updatedAt=1766875939628"  />
+<img align="right" height="300" src="https://ik.imagekit.io/o9yqquihf/Portfolio-Profile/imagen.png?updatedAt=1767047650995"  />
 
 ###
 
